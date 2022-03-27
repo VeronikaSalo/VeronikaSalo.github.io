@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Romi"
+date: 2021-10-19 10:34:11 +0100
+image: "https://img.youtube.com/vi/Z7oWMIGv0rg/hqdefault.jpg"
+categories: barcelona parks
+tags: Urban Children
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z7oWMIGv0rg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
